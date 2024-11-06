@@ -13,6 +13,11 @@
     "Loader",
     "Skeleton"
   ],
+  "homepage": "https://github.com/lampouridis/Antd-Table-Loader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lampouridis/Antd-Table-Loader"
+  },
   "author": "Alexios Lampouridis",
   "license": "ISC",
   "dependencies": {
