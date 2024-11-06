@@ -1,6 +1,6 @@
 {
   "name": "antd-table-loader",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Antd table with the loader implemented",
   "main": "dist/index.js",
   "scripts": {
